@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">bytFragmentsMedBackstack</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+<string-array name="menu">
+    <item>fragment 1</item>
+    <item>fragment 2</item>
+    <item>Quit</item>
+</string-array>
+</resources>
